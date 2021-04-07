@@ -10,6 +10,8 @@ output:
 ---
 For this project, I chose the European Energy datasets to explore and analyze the types and amounts of energy generated in European countries.
 
+### [GitHub repo](https://github.com/bazzim/DV2-Term.git)
+
 ### Loading and cleaning data
 First, lets load the datasets and do some cleaning to it. Both datasets include information on how much of electricity each European country generated between 2016-2018 and the types of energies generated.
 
